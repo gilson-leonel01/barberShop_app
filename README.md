@@ -6,10 +6,6 @@
 
 **Barbershop App** é um aplicativo móvel desenvolvido em **React Native (TypeScript/JavaScript)** para otimizar a gestão de barbearias. Com uma interface intuitiva, permite gerenciar clientes, barbeiros, agendamentos e finanças, integrando Firebase e React Navigation para uma experiência fluida e eficiente.
 
-## 📝 Descrição (300 caracteres)
-
-Barbershop App simplifica a gestão de barbearias. Cadastre clientes e barbeiros, gerencie agendamentos com calendário integrado, acompanhe finanças e receba notificações. Desenvolvido com React Native, Firebase e TypeScript, oferece uma solução prática e moderna para o dia a dia de barbearias.
-
 ## 🚀 Executando o Projeto
 
 Siga as instruções abaixo para configurar e rodar o projeto localmente.
