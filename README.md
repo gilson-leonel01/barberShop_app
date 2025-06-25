@@ -20,6 +20,7 @@ cd barberShop_app
 ### 2️⃣ Configuração do Ambiente
 
 #### 📌 Pré-requisitos:
+
 - Node.js instalado (versão 16+ recomendada).
 - Yarn ou npm como gerenciador de pacotes.
 - Firebase configurado (para autenticação e banco de dados).
@@ -62,6 +63,7 @@ A aplicação estará disponível no emulador ou dispositivo conectado.
 ## 🛠️ Tecnologias Utilizadas
 
 ### 🔹 Frontend:
+
 - React Native
 - TypeScript/JavaScript
 - React Navigation
@@ -71,6 +73,7 @@ A aplicação estará disponível no emulador ou dispositivo conectado.
 - React Native Vector Icons
 
 ### 🔹 Backend:
+
 - Firebase (Firestore para banco de dados, Authentication para login)
 
 ## 📌 Links Úteis
